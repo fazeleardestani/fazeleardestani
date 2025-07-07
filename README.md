@@ -5,7 +5,7 @@ I am currently studying software engineering at university, and I am very passio
 
 * 🌍  I'm based in Iran
 * ✉️  You can contact me at [ArdestaniFazele@gmail.com](mailto:ArdestaniFazele@gmail.com)
-* 🧠  I'm learning Flutter and Python
+* 🧠  I'm learning Python and Django
 
 ### Skills
 
